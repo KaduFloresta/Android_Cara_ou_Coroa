@@ -54,5 +54,5 @@ Aplicação de jogo de cara ou coroa utilizando o Random e resultado numa nova a
  ---
  
  # Prints do Aplicativo 
- <img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print.png" alt="drawing" width="280"/><img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print2.png" alt="drawing" width="280"/><img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print3.png" alt="drawing" width="280"/>
+ <img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print.png" alt="drawing" width="260"/><img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print2.png" alt="drawing" width="260"/><img src="https://github.com/KaduFloresta/Android_Cara_ou_Coroa/blob/master/app/src/main/res/drawable/print3.png" alt="drawing" width="260"/>
 
